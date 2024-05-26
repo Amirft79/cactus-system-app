@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = ir.cactus.config.\
+    SqlTestContainersSpringContextCustomizerFactory,ir.cactus.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
